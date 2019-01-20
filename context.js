@@ -1,6 +1,5 @@
 var Robot = function (name) {
   this.name = name;
-
 }
 
 function add ( op1, op2 ) {
